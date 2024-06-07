@@ -1,5 +1,7 @@
 import { PropsWithChildren } from 'react'
 import { useLaunch } from '@tarojs/taro'
+import '@nutui/nutui-react-taro/dist/style.css'
+// import 'taro-ui/dist/style/index.scss' // 全局引入一次即可
 import './app.styl'
 
 function App({ children }: PropsWithChildren<any>) {
