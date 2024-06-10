@@ -90,3 +90,81 @@ export const cards = [
     title: '渊武角色攻略'
   },
 ]
+
+export const upCards = [
+  {
+    id: 0,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/5/4/768972.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '吟霖角色攻略',
+    title: '吟霖角色攻略'
+  },
+  {
+    id: 1,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/4/27/666358.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '忌炎角色攻略',
+    title: '忌炎角色攻略'
+  },
+]
+
+export const activeCards = [
+  {
+    id: 0,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_1113/h_597/50074/479972/2024/5/7/718522.png?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '「飞檐同好会」攻略',
+    title: '「飞檐同好会」攻略'
+  },
+  {
+    id: 1,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_1112/h_598/50074/479972/2024/4/28/502087.png?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '「深坠异想奇境」攻略',
+    title: '「深坠异想奇境」攻略'
+  },
+]
+
+export const fightCards = [
+  {
+    id: 0,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/5/6/839980.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '阵容搭配逻辑',
+    title: '阵容搭配逻辑'
+  },
+  {
+    id: 1,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/5/6/960127.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '伤害公式计算和声骸词条优先级选择',
+    title: '伤害公式计算和声骸词条优先级选择'
+  },
+  {
+    id: 2,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/5/7/169314.jpg?x-image-process=image/resize,m_lfit,h_300,w_300',
+    alt: '全息战略boss拆招',
+    title: '全息战略boss拆招'
+  },
+]
+
+export const wordCards = [
+  {
+    id: 0,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_1920/h_1080/50074/479972/2024/4/24/946634.png?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '世界资源分布',
+    title: '世界资源分布'
+  },
+  {
+    id: 1,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/4/29/802471.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '红名精英具体位置',
+    title: '红名精英具体位置'
+  },
+  {
+    id: 2,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/4/29/746796.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '红名精英逃课打法',
+    title: '红名精英逃课打法'
+  },
+  {
+    id: 3,
+    src: 'https://cdnimg.gamekee.com/wiki2.0/images/w_300/h_169/50074/391271/2024/5/5/713178.jpg?x-image-process=image/resize,m_lfit,h_300,w_600',
+    alt: '隐藏成就全收集',
+    title: '隐藏成就全收集'
+  },
+]

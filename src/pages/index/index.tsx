@@ -23,9 +23,8 @@ export default function Index() {
             setTab1value(value)
           }}
           activeType='smile'
-          align='right'
           duration='500'
-          tabStyle={{ background: '#fff', borderBottom: '1px solid hsla(0,0%,91.8%,.8)' }}
+          tabStyle={{ background: '#fff', borderBottom: '1px solid hsla(0,0%,91.8%,.8)', position: 'sticky', top: '0px', zIndex: 11, overflowX: 'hidden' }}
         >
           {
             navItems.map(item => (
